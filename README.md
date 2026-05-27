@@ -52,6 +52,10 @@ ftp
 ```
 <img width="1136" height="617" alt="{77EB4FE2-6FE1-4E4C-A267-47A63F03F4B5}" src="https://github.com/user-attachments/assets/5cea3445-e256-4ee3-88a7-5018180dfebc"/>
 
+```
+ curl https://example.com
+```
+<img width="1036" height="651" alt="{703124DA-902C-43BD-8657-F60CC41369C8}" src="https://github.com/user-attachments/assets/551210c2-8277-4380-9e97-6e54195ad438"/>
 
 
 ## Result
